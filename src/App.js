@@ -1,10 +1,10 @@
-import SignUpForm from "./exercises/ValidateSignUpForm";
+import LabelFilter from "./exercises/LabelFilter";
 import "./styles.css";
 
 export default function App() {
   return (
     <div className="App">
-      <SignUpForm />
+      <LabelFilter />
     </div>
   );
 }
